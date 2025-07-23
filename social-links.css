@@ -56,4 +56,5 @@ main {
 
 .text-box:hover {
     background: hsl(75, 94%, 57%);
+    cursor: pointer;
 }
